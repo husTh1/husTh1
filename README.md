@@ -27,7 +27,6 @@ CS student passionate about blending technical skill with creative execution —
 ### 🌱 Currently Learning
 
 - 🎞️ After Effects (active focus right now)
-- 🔗 n8n — aiming to build strong working knowledge by the end of 2026
 - 🗣️ Improving my English through ongoing training
 
 ### 📜 Certificates
