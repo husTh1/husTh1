@@ -19,14 +19,21 @@ CS student passionate about blending technical skill with creative execution —
 - 🧠 Founder & Brand Strategist at **Al-Muharrir**
 - 📍 Based in Al-Aziziya, Iraq
 
+### 🌟 Featured Projects
+
+- 🏥 [**HOMS**](https://github.com/husTh1/HOMS) — Full-stack hospital management system with role-based access (Admin / Reception / Doctor / Specialist) and an integrated AI medical assistant
+- 💰 [**Amwali**](https://github.com/husTh1/amwali) — Personal finance dashboard built for the Iraqi Dinar (IQD), with budgeting, category tracking, and visual analytics
+- 🗄️ [**SQL Master Arabic**](https://github.com/husTh1/Sql-Master-platform) — Interactive Arabic platform for learning SQL, powered by a custom in-browser SQL engine built entirely from scratch
+- 🎓 [**Lumen Training Center**](https://github.com/husTh1/lumen-training-center) — Fully responsive training-academy website with a course catalog, instructor showcase, and a dedicated IELTS hub
+
 ### 🔭 Currently Working On
 
-- 🏥 **Hospital Management System** — Full-Stack Developer, implementing authentication logic, database structures, repository layers, and API controllers
 - 🎨 **Al-Muharrir** — designing content roadmaps and editorial guidelines for a modern brand identity
 
 ### 🌱 Currently Learning
 
 - 🎞️ After Effects (active focus right now)
+- 🔗 n8n — aiming to build strong working knowledge by the end of 2026
 - 🗣️ Improving my English through ongoing training
 
 ### 📜 Certificates
@@ -34,11 +41,19 @@ CS student passionate about blending technical skill with creative execution —
 - One Million AI Experts Certificate — UAE
 - Introduction to Artificial Intelligence — The Hashemite Kingdom of Jordan
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=husTh1&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=husTh1&layout=compact&hide_border=true" />
+</p>
+
 ### 📫 Connect With Me
 
 <p align="center">
   <a href="mailto:ha3140465@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <!-- Add your LinkedIn / Portfolio links here once ready -->
+  <a href="https://www.instagram.com/1husth"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <!-- Add your LinkedIn / Portfolio site link here once ready -->
 </p>
 
 <p align="center"><i>⭐️ Feel free to explore my pinned repositories below to see what I've been building.</i></p>
