@@ -41,13 +41,6 @@ CS student passionate about blending technical skill with creative execution —
 - One Million AI Experts Certificate — UAE
 - Introduction to Artificial Intelligence — The Hashemite Kingdom of Jordan
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=husTh1&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=husTh1&layout=compact&hide_border=true" />
-</p>
-
 ### 📫 Connect With Me
 
 <p align="center">
